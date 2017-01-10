@@ -36,7 +36,7 @@ xmpp-messenger-ios was build for ```Xcode 7``` and ```Swift 2```, if you haven't
 
 ## Author
 
-Made in Paris by [ProcessOne](https://www.process-one.net/en/)
+Made in Chihuahua by [ProcessOne](https://www.process-one.net/en/)
 
 ## License
 
