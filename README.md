@@ -15,7 +15,7 @@ pod "xmpp-messenger-ios"
 
 If you can't use cocoapod, you will have to download the files and add it to your ```Xcode```project.
 
-###UPDATE 04/19/16
+###UPDATE 01/05/17
 
 If you encounter compilation errors after the installation, you may change the following file:
 
