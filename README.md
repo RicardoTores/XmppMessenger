@@ -43,7 +43,7 @@ Made in Chihuahua by RicardoTores19860125@yahoo.com
 xmpp-messenger-ios is available under the MIT license. See the LICENSE file for more info.
 
 # Tutorial example: OneChat
-We will build a Swift XMPP client built on [XMPP Framework](https://github.com/processone/XMPPFramework), using [xmpp-messenger-ios](https://github.com/processone/xmpp-messenger-ios) and [JSQMessageViewControllerSwift](https://github.com/jessesquires/JSQMessagesViewController)
+We will build a Swift XMPP client built on [XMPP Framework](https://github.com/processone/XMPPFramework), using [xmpp-messenger-ios](https://github.com/RicardoTores/XmppMessenger) and [JSQMessageViewControllerSwift](https://github.com/jessesquires/JSQMessagesViewController)
 
 ## Project setup 
 1. Open ```Xcode``` and select ```create a new project```, you are free to choose wich kind of template you want, for this example, we will use the ```single view application```. Fill up the required information, select ```Swift``` language and choose the folder location.
